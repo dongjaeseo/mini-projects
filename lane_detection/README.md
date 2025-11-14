@@ -112,8 +112,9 @@ Observations:
 - Collect mask outputs into an array  
 - Compute steering angle per frame  
 - Render overlay (line + angle text)
-![image79](https://github.com/user-attachments/assets/11fe6896-8509-4c5f-856c-44c7b53f661d)
-![image78](https://github.com/user-attachments/assets/92799826-fde5-4036-8cf0-8f6eedf16994)
+<img src="https://github.com/user-attachments/assets/11fe6896-8509-4c5f-856c-44c7b53f661d" width="400"/>
+<img src="https://github.com/user-attachments/assets/92799826-fde5-4036-8cf0-8f6eedf16994" width="400"/>
+
 
 
 ---
