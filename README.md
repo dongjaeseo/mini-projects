@@ -15,7 +15,8 @@ Generate natural-language descriptions from images using:
 - Greedy & Beam Search  
 → [View Project](./ImageCaptioning)
 
-![Uploading image.png…]()
+<img width="1310" height="558" alt="image" src="https://github.com/user-attachments/assets/3c6a6313-612a-4b40-a44e-372453f1d5d8" />
+
 
 
 ---
